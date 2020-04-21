@@ -1,6 +1,6 @@
 # Process-Mining  
   
-
+"discovering process maps from data"  
 "to mine your behavior" :grimacing:  
  
 ### "As-is": Just the way it is, with no changes  
