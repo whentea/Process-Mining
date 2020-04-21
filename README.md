@@ -1,8 +1,9 @@
 # Process-Mining  
   
 
-to mine your process :blush: 
-"As-is": Just the way it is, with no changes  
+to mine your process :grimacing:  
+ 
+### "As-is": Just the way it is, with no changes  
 ```
 seperti apa adanya, tanpa perubahan apapun
 ```
